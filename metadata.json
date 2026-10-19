@@ -1,0 +1,6 @@
+{
+  "name": "NEON TETRIS Arcade",
+  "description": "네온 테트리스 아케이드 게임 - 고전 테트리스 테마(Korobeiniki) 및 신스웨이브 배경음악, 실감나는 음향 효과와 풀스크린 지원",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
